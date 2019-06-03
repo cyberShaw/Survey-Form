@@ -1,0 +1,37 @@
+html {
+    font-family: 'Raleway', sans-serif;
+    background-color: #a9d7d1;
+    text-align: center;
+}
+
+main {
+    padding: 2em;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.labels {
+    display: inline-block;
+    text-align: right;
+    width: 40%;
+    padding: 5px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.rightTab {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    //padding: 5px;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+
